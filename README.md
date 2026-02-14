@@ -93,10 +93,14 @@ As a Geotechnical/Water Resources Engineering enthusiast, the next phase of this
 ---
 
 ## 👤 Author
-**[Md. Mahmudul Hasan Novo]**
+**Md. Mahmudul Hasan Novo**
+
 *BSc in Civil Engineering*
+
 *Bangladesh University of Engineering & Technology*
+
 Email: novomahmud@gmail.com
+
 LinkedIn: [Mahmudul Hasan Novo | LinkedIn](https://www.linkedin.com/in/novomahmud/)
 
 ---
