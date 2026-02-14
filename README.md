@@ -47,7 +47,12 @@ To ensure statistical significance, duplicate entries (identified by identical t
 ### 1. Most Expensive Neighborhoods (Top 5)
 The analysis identifies the areas with the highest average price per square foot, providing insight into premium land valuation zones within Dhaka.
 
-![Top 5 Areas Analysis](results_top_5_areas.csv)
+```
+"property_category","count","average_price"
+"Budget","2157","5836580.08"
+"Standard","639","15895995.65"
+"Luxury","134","93945123.13"
+```
 
 **Key Observations:**
 *   A clear price disparity exists between premium zones (e.g., Gulshan, Banani) and developing areas.
