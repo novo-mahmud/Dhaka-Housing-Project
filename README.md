@@ -47,12 +47,16 @@ To ensure statistical significance, duplicate entries (identified by identical t
 ### 1. Most Expensive Neighborhoods (Top 5)
 The analysis identifies the areas with the highest average price per square foot, providing insight into premium land valuation zones within Dhaka.
 
-```
-"property_category","count","average_price"
-"Budget","2157","5836580.08"
-"Standard","639","15895995.65"
-"Luxury","134","93945123.13"
-```
+#### 🏆 Top 5 Areas by Average Price per Sqft
+
+| Location                                   | Avg Price per Sqft | Total Listings | Highest Price in Area | Lowest Price in Area |
+|--------------------------------------------|-------------------:|---------------:|----------------------:|---------------------:|
+| Jubilee Road, 22 No. Enayet Bazaar Ward    | 52791.54           | 11             | 35000000              | 7370000              |
+| CDA Avenue, 15 No. Bagmoniram Ward         | 52486.19           | 1              | 9500000               | 9500000              |
+| Motijheel Road, Motijheel                  | 45000.00           | 1              | 210870000             | 210870000            |
+| Kazi Nazrul Islam Avenue, Banglamotors     | 40000.00           | 1              | 120000000             | 120000000            |
+| East Nasirabad, Muradpur                   | 38117.58           | 3              | 14000000              | 8000000              |
+
 
 **Key Observations:**
 *   A clear price disparity exists between premium zones (e.g., Gulshan, Banani) and developing areas.
@@ -61,7 +65,14 @@ The analysis identifies the areas with the highest average price per square foot
 ### 2. Market Segmentation
 A breakdown of the dataset by property category reveals the volume of supply across different economic segments.
 
-![Market Segmentation](results_categories.csv)
+#### 🏘️ Property Category Summary
+
+| Property Category | Count | Average Price |
+|-------------------|------:|--------------:|
+| Budget            | 2157  | 5836580.08    |
+| Standard          | 639   | 15895995.65   |
+| Luxury            | 134   | 93945123.13   |
+
 
 **Key Observations:**
 *   The majority of listings fall into the "Standard" category, suggesting a balanced mid-market supply.
