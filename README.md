@@ -2,7 +2,9 @@
 # Dhaka Real Estate Data Analysis & Spatial Potential
 
 **Dataset:** Dhaka Housing Price List [Source: Kaggle](https://www.kaggle.com/datasets/durjoychandrapaul/house-price-bangladesh)
+
 **Tools:** PostgreSQL (pgAdmin 4), SQL
+
 **Domain:** Civil Engineering / Urban Infrastructure Analysis
 
 ---
